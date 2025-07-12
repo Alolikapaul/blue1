@@ -1,4 +1,10 @@
 # blue1
+<<<<<<< HEAD
+ITS SIMPLE install pip imagieo [full]
+and use PIL and numpy
+Resizing image through RGB so we dont get value error 
+note:here the filename directors arent in the the same directory as the script.
+=======
 from PIL import Image
 import numpy as np
 import imageio.v3 as iio
@@ -32,3 +38,5 @@ for filename in filenames:
 
 # Write to GIF
 iio.imwrite(r"C:\Users\kalya\OneDrive\Desktop\team.gif", images, duration=500, loop=0)
+
+>>>>>>> bd3e3a4e7c26bc79784b1e3ab65a5d6b8115d4c7
