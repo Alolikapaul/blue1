@@ -6,7 +6,8 @@ import imageio.v3 as iio
 # Full paths to image files
 filenames = [
     r"C:\Users\kalya\OneDrive\Desktop\GIF_1.png",
-    r"C:\Users\kalya\OneDrive\Desktop\GIF_2.png"
+    r"C:\Users\kalya\OneDrive\Desktop\GIF_2.png",
+     r"C:\Users\kalya\OneDrive\Desktop\GIF_3.png"
 ]
 
 images = []
